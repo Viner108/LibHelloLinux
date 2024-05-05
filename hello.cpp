@@ -1,5 +1,6 @@
 #include <iostream>
+#include "hello.h"
 
-int hello(){
+void hello(){
 	std::cout << "Hello";
 }
